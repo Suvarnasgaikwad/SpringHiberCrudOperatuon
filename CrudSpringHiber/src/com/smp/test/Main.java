@@ -16,7 +16,7 @@ public class Main {
       Studentdao dao  =(Studentdao)context.getBean("studDao");
       Scanner sc=new Scanner(System.in);
       boolean num=true;
-      System.out.println("-----------Welcome----------");
+      System.out.println("-----------Welcome Student Portal----------");
       while(num)
         {
     	  System.out.println("Choose one option");
