@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-aop-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-asm-3.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-aspects-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-beans-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-context-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-context-support-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-core-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-expression-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-jdbc-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-orm-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-tx-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-web-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Spring4/spring-webmvc-4.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/hibernate-core-4.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/required/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/Hibernate4/hibernate-release-4.1.2.Final/hibernate-release-4.1.2.Final/lib/jpa/hibernate-entitymanager-4.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/jaxb-api-2.3.0 (1).jar"/>
+	<classpathentry kind="lib" path="E:/smp_Software/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
